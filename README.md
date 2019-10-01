@@ -1,4 +1,4 @@
-![Marvel Universe!](/images/marvel_banner.png "The MCU")
+![Marvel Universe!](/marvel_banner.png "The MCU")
 
 # A retrospective of Phase one of the MCU
 
